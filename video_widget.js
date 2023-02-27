@@ -73,12 +73,14 @@ const videos = [
 			"src": "https://storage.googleapis.com/res-growth/brands/video/vitaCup_video_02.mp4",
 			"product": {
 					"brand": "VitaCup",
+					"title": "Vitacup genius keto coffee pods, increase energy",
 			},
 	},
 	{
 			"src": "https://storage.googleapis.com/res-growth/brands/video/vitaCup_video_03.mp4",
 			"product": {
 					"brand": "VitaCup",
+					"title": "Vitacup genius keto coffee pods, increase energy",
 			},
 	},
 ];
